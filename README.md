@@ -11,19 +11,31 @@ I am hoping to build upon my Python and R skills post graduation, and looking fo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+WORK/PROJECTS
 
 https://github.com/brogers92/Data-Science-Projects/tree/main 
+
+This portfolio inlcudes a variety of projects uisng Python, R, and Tableau with topics ranging from data cleaning and preperation, data vizualization, to EDA and data analysis
+covering predicitve analytics and other projects, and machine learning and model creation such as linear regression models in both R and Python.
+
+
+
+
+CONTACT
+
+For interest in projects/opportunites I can be found at:
+
+Email: bryan.rogers19@yahoo.com
+LinkedIn: https://www.linkedin.com/in/bryan-rogers19/
+GitHub: https://github.com/brogers92
+Tableau: https://public.tableau.com/app/profile/bryan.rogers/vizzes
+
+
+
+
+
+
+
+
+
+
