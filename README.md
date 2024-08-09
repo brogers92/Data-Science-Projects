@@ -18,7 +18,7 @@ https://github.com/brogers92/Data-Science-Projects/tree/main
 This portfolio inlcudes a variety of projects uisng Python, R, and Tableau with topics ranging from data cleaning and preperation, data vizualization, to EDA and data analysis
 covering predicitve analytics and other projects, and machine learning and model creation such as linear regression models in both R and Python.
 
-
+LIST AND SUMMARY OF PROJECTS
 
 Classification Models and Clustering
 
